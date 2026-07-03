@@ -1,0 +1,17 @@
+# Reference material cloned from other students (not my own work)
+/42-Piscine/
+/E01/C-Piscine-exam/
+
+# Duplicate archive of projects/ folder
+/projects.zip
+
+# Personal/admin documents (not project work)
+/42 Introductory Statement Fillable_NEW.pdf
+/42 Introductory Statement Fillable_NEW - Copy.pdf
+
+# Build artifacts
+a.out
+*.o
+*.out
+build/
+Debug/
