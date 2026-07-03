@@ -15,3 +15,7 @@ a.out
 *.out
 build/
 Debug/
+
+# Editor / tooling state
+/.vscode/
+/.claude/
